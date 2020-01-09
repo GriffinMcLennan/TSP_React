@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/TSP_React/static/css/main.a006c76e.chunk.css",
-    "main.js": "/TSP_React/static/js/main.9870516f.chunk.js",
-    "main.js.map": "/TSP_React/static/js/main.9870516f.chunk.js.map",
+    "main.css": "/TSP_React/static/css/main.2c66d11c.chunk.css",
+    "main.js": "/TSP_React/static/js/main.cab2aa4c.chunk.js",
+    "main.js.map": "/TSP_React/static/js/main.cab2aa4c.chunk.js.map",
     "runtime-main.js": "/TSP_React/static/js/runtime-main.892b7acd.js",
     "runtime-main.js.map": "/TSP_React/static/js/runtime-main.892b7acd.js.map",
     "static/js/2.eab8afd3.chunk.js": "/TSP_React/static/js/2.eab8afd3.chunk.js",
     "static/js/2.eab8afd3.chunk.js.map": "/TSP_React/static/js/2.eab8afd3.chunk.js.map",
     "index.html": "/TSP_React/index.html",
-    "precache-manifest.db11e8a3fb5a354182168489f74427fa.js": "/TSP_React/precache-manifest.db11e8a3fb5a354182168489f74427fa.js",
+    "precache-manifest.705fb4f036c2d474a2041958c30ab019.js": "/TSP_React/precache-manifest.705fb4f036c2d474a2041958c30ab019.js",
     "service-worker.js": "/TSP_React/service-worker.js",
-    "static/css/main.a006c76e.chunk.css.map": "/TSP_React/static/css/main.a006c76e.chunk.css.map"
+    "static/css/main.2c66d11c.chunk.css.map": "/TSP_React/static/css/main.2c66d11c.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.892b7acd.js",
     "static/js/2.eab8afd3.chunk.js",
-    "static/css/main.a006c76e.chunk.css",
-    "static/js/main.9870516f.chunk.js"
+    "static/css/main.2c66d11c.chunk.css",
+    "static/js/main.cab2aa4c.chunk.js"
   ]
 }
