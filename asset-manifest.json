@@ -1,21 +1,22 @@
 {
   "files": {
     "main.css": "/TSP_React/static/css/main.5bc27afc.chunk.css",
-    "main.js": "/TSP_React/static/js/main.cab2aa4c.chunk.js",
-    "main.js.map": "/TSP_React/static/js/main.cab2aa4c.chunk.js.map",
+    "main.js": "/TSP_React/static/js/main.128a4f63.chunk.js",
+    "main.js.map": "/TSP_React/static/js/main.128a4f63.chunk.js.map",
     "runtime-main.js": "/TSP_React/static/js/runtime-main.892b7acd.js",
     "runtime-main.js.map": "/TSP_React/static/js/runtime-main.892b7acd.js.map",
-    "static/js/2.eab8afd3.chunk.js": "/TSP_React/static/js/2.eab8afd3.chunk.js",
-    "static/js/2.eab8afd3.chunk.js.map": "/TSP_React/static/js/2.eab8afd3.chunk.js.map",
+    "static/js/2.fee16127.chunk.js": "/TSP_React/static/js/2.fee16127.chunk.js",
+    "static/js/2.fee16127.chunk.js.map": "/TSP_React/static/js/2.fee16127.chunk.js.map",
     "index.html": "/TSP_React/index.html",
-    "precache-manifest.445a37733c69b45ca01a43388ccc3293.js": "/TSP_React/precache-manifest.445a37733c69b45ca01a43388ccc3293.js",
+    "precache-manifest.7c0671fde8e038618547d6803fcbbe18.js": "/TSP_React/precache-manifest.7c0671fde8e038618547d6803fcbbe18.js",
     "service-worker.js": "/TSP_React/service-worker.js",
-    "static/css/main.5bc27afc.chunk.css.map": "/TSP_React/static/css/main.5bc27afc.chunk.css.map"
+    "static/css/main.5bc27afc.chunk.css.map": "/TSP_React/static/css/main.5bc27afc.chunk.css.map",
+    "static/media/tutorial.gif": "/TSP_React/static/media/tutorial.e9bbf780.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.892b7acd.js",
-    "static/js/2.eab8afd3.chunk.js",
+    "static/js/2.fee16127.chunk.js",
     "static/css/main.5bc27afc.chunk.css",
-    "static/js/main.cab2aa4c.chunk.js"
+    "static/js/main.128a4f63.chunk.js"
   ]
 }
