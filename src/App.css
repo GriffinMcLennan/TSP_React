@@ -1,24 +1,82 @@
 .container {
-    width: 1500px;
-    height: 1000px;
-    background-color: gray;
+    width: 1830px;
+    height: 900px;
+    padding: 0px;
+    background-color: white;
 }
 
 .btn {
-    margin:3px;
-    width:100px;
-    height:75px;
+    background-color: white;
+    color: black;
+    border: 2px solid #e7e7e7;
+    font: verdana;
+    font-size: 20px;
+    margin-right:3px;
+    margin-left:3px;
+    margin-top:8px;
+    width:214px;
+    height:80px;
+    vertical-align: top;
+    transition-duration: 0.6s;
+    border-radius: 12px;
+}
+
+.btn:hover {background-color: #e7e7e7;}
+
+:focus {
+    outline: none !important;
+}
+
+#scoreInfo {
+    float: left;
+    width: 900px;
+    height: 100px;
 }
 
 .scoreboard {
-    float: right;
-    margin-right: 300px;
-    font-size: 20px;
+    font-size: 30px;
+    width: 380px;
+    margin-left: 50px;
+    margin-top: 40px;
+    float: left;
 }
 
 
 canvas {
     background-color: whitesmoke;
+    float:left;
+    margin-top: 15px;
+    margin-left: 15px;
 }
 
+#utilities {
+    width: 1830px;
+    height: 100px;
+    float: left;
+}
+
+#div2 {
+    text-align: center;
+    font-size: 30px;
+    padding-left: 10px;
+    float:left;
+}
+
+#buttons {
+    background-color: white;
+    padding-left: 10px;
+    margin-top: 10px;
+    float:left;
+    
+}
+
+#info {
+    float:right;
+    margin: 50px 100px 0px 0px;
+}
+
+#distancegraph {
+    background-color: lightgray;
+    margin-top: 1px;
+}
 
